@@ -1,0 +1,21 @@
+<{shape1} --> rectangle>.
+1
+<{shape1} --> [filled]>.
+1
+<(*,{shape1},{shape2}) --> leftOf>.
+1
+<(*,{shape1},{shape3}) --> topOf>.
+1
+<{shape2} --> circle>.
+1
+<{shape2} --> [unfilled]>.
+1
+<(*,{shape2},{shape3}) --> topOf>.
+1
+<{shape3} --> triangle>.
+1
+<{shape3} --> [unfilled]>.
+1
+<(*,{shape3},{shape2}) --> leftOf>.
+1
+$1.0;0.99;1.0$ <(*,(&,[filled],rectangle),{?1}) --> leftOf>?

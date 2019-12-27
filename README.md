@@ -14,7 +14,7 @@ Example:
 
 ![Detections of shape classes and properties](https://user-images.githubusercontent.com/8284677/71529455-b4d51100-28dc-11ea-8388-2c64b951e955.png)
 
-Question to reasoner: What shape is the filled rectangle left to?
+Question to OpenNARS: What shape is the filled rectangle left to?
 
 ```<(*,(&,[filled],rectangle),{?1}) --> leftOf>?```
 

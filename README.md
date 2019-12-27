@@ -1,4 +1,5 @@
 **CNN-based detection of geometric shapes in images, and reasoning-based question answering**
+![Drawings Q/A](https://user-images.githubusercontent.com/8284677/71530350-447cbe80-28e1-11ea-9005-55973219c19e.png)
 
 This project uses OpenNARS for visual question answering about shape drawings, utilizing output from a Convolutional Neural Network which was trained on a variation of Shapeset.
 

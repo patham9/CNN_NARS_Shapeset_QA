@@ -9,13 +9,3 @@ And for the implementation (using TensorFlow for the CNN + OpenNARS), have a loo
 Author: Patrick Hammer
 
 Email: patrick.hammer@temple.edu
-
-Example:
-
-![Detections of shape classes and properties](https://user-images.githubusercontent.com/8284677/71529455-b4d51100-28dc-11ea-8388-2c64b951e955.png)
-
-Question to OpenNARS: What shape is the filled rectangle left to?
-
-```<(*,(&,[filled],rectangle),{?1}) --> leftOf>?```
-
-Answer: <(*,(&,[filled],rectangle),{shape2}) --> leftOf>. %1.00;0.32% 
